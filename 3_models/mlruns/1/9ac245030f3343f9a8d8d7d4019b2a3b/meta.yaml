@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/djava/OneDrive/Documents/Oxford/Projects/india_rice_early_warning/3_models/mlruns/1/9ac245030f3343f9a8d8d7d4019b2a3b/artifacts
+end_time: 1702547247893
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ac245030f3343f9a8d8d7d4019b2a3b
+run_name: Session Initialized ba10
+run_uuid: 9ac245030f3343f9a8d8d7d4019b2a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702547169274
+status: 3
+tags: []
+user_id: djava
